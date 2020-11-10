@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi I'm Maciej Glowacki
+I'm a Fullstack developer based in Oslo. Currently I'm working as a cunsultant for <Salt />.
+<br/>
 
-<!--
-**MaciejGL/MaciejGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My current stack:
 
-Here are some ideas to get you started:
+```
+# Frontend
+React
+Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Backend
+Node
+Express
+MongoDB
+```
+
+## My apps
+
+ [Todo App - Frontend](https://github.com/MaciejGL/todoreact/)<br/>
+ [Todo App - Backend](https://github.com/MaciejGL/todo-server/)<br/>
+ [Workout Planner - Backend](https://github.com/MaciejGL/workout_planner_backend/) - in progress.<br/>
+ [Workout Planner - Frontend](https://github.com/MaciejGL/workout_planner_frontend/) - in progress.<br/>
+<br/>
+
+## Currently learning
+I'm working on Fullstack apps to maintain and enhance my knowledge. In meantime I'm heading towarads learning the Gatsby and PWA.
+<br/>
+
+## Reach me out here:
+
+[LinkedIn](https://www.linkedin.com/in/maciej-glowacki1/)
