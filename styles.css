@@ -1,3 +1,4 @@
 .projectInProgress {
-  border: 2px solid black
+  display: block;
+  border: 2px solid black;
 }
