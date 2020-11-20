@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
+<link href="styles.css" rel="stylesheet"></link>
 
 <h1 align="center">Hi 👋, I'm Maciej Glowacki</h1>
 <h3 align="center">Full stack JavaScript Dev @ School of Applied Technology</h3>
