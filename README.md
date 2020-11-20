@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 <h1 align="center">Hi 👋, I'm Maciej Glowacki</h1>
 <h3 align="center">Full stack JavaScript Dev @ School of Applied Technology</h3>
 
@@ -32,6 +34,7 @@ Postgress with Sequalize
 
  [Blog with Next.js](https://github.com/MaciejGL/wika-blog-next)<br/>
  [With Headless CMS - Strapi](https://github.com/MaciejGL/wika_cms)<br/>
+ <img src="https://github.com/MaciejGL/wika-blog-next/blob/main/wika.png" class="projectInProgress" />
 
 <br/><br/>
 
