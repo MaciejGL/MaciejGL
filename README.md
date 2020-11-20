@@ -1,38 +1,44 @@
 <h1 align="center">Hi 👋, I'm Maciej Glowacki</h1>
 <h3 align="center">Full stack JavaScript Dev @ School of Applied Technology</h3>
 
+<br/>
+
 ## My current stack:
 
 <h4>Frontend</h4>
 
-```React
+```javascript
+React
 Next.js and Gatsby
 Redux
-Sass, Styled-Components
-Material-UI, Recharts
+Sass, Styled Components
+Material UI, Recharts
 ```
 
 
 <h4>Backend</h4>
 
-```Node
+```javascript
+Node
 Express
 GraphQL
 MongoDB with Mongoose
 Postgress with Sequalize
 ```
 
-## My apps
+<br/><br/>
 
- [Todo App - Frontend](https://github.com/MaciejGL/todoreact/)<br/>
- [Todo App - Backend](https://github.com/MaciejGL/todo-server/)<br/>
- [Workout Planner - Backend](https://github.com/MaciejGL/workout_planner_backend/) - in progress.<br/>
- [Workout Planner - Frontend](https://github.com/MaciejGL/workout_planner_frontend/) - in progress.<br/>
-<br/>
+## Currently working on:
+
+ [Blog with Next.js](https://github.com/MaciejGL/wika-blog-next)<br/>
+ [With Headless CMS - Strapi](https://github.com/MaciejGL/wika_cms)<br/>
+
+<br/><br/>
 
 ## Currently learning
 I'm working on Fullstack apps to maintain and enhance my knowledge. In meantime I'm heading towarads learning the Gatsby and PWA.
-<br/>
+
+<br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
