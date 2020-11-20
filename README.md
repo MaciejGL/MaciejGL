@@ -4,17 +4,18 @@
 ## My current stack:
 
 <h4>Frontend</h4>
-```
-React
+
+```React
 Next.js and Gatsby
 Redux
 Sass, Styled-Components
 Material-UI, Recharts
 ```
 
+
 <h4>Backend</h4>
-```
-Node
+
+```Node
 Express
 GraphQL
 MongoDB with Mongoose
