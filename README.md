@@ -1,5 +1,5 @@
 # Hi I'm Maciej Glowacki
-I'm a Fullstack developer based in Oslo. Currently I'm working as a cunsultant for </salt>.
+I'm a Fullstack developer based in Oslo. Currently I'm working as a cunsultant for `</salt>`.
 <br/>
 
 ## My current stack:
