@@ -32,7 +32,7 @@ Postgress with Sequalize
 
  ### Physio 
  [Frontend](https://github.com/MaciejGL/final-project-frontend) - Early Stage, not deployed<br /> 
- [Backend](https://github.com/MaciejGL/final-project-backend) - Early Stage, not deeployed
+ [Backend](https://github.com/MaciejGL/final-project-backend) - Early Stage, not deployed
 
  ### Next Blog
  [Blog with Next.js](https://github.com/MaciejGL/wika-blog-next)<br/>
