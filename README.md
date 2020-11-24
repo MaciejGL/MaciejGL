@@ -31,7 +31,7 @@ Postgress with Sequalize
 ## Currently working on:
 
  ### Physio 
- [Frontend](https://github.com/MaciejGL/final-project-frontend)
+ [Frontend](https://github.com/MaciejGL/final-project-frontend)<br />
  [Backend](https://github.com/MaciejGL/final-project-backend)
 
  ### Next Blog
