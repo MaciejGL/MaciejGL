@@ -30,6 +30,11 @@ Postgress with Sequalize
 
 ## Currently working on:
 
+ ### Physio 
+ [Frontend](https://github.com/MaciejGL/final-project-frontend)
+ [Backend](https://github.com/MaciejGL/final-project-backend)
+
+ ### Next Blog
  [Blog with Next.js](https://github.com/MaciejGL/wika-blog-next)<br/>
  [With Headless CMS - Strapi](https://github.com/MaciejGL/wika_cms)<br/>
  <img src="https://github.com/MaciejGL/wika-blog-next/blob/main/wika.png" class="projectInProgress" />
