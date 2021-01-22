@@ -28,9 +28,14 @@ Postgress with Sequalize
 
 <br/><br/>
 
-## Currently working on:
+## Recently worked on:
 
- ### Physio 
+ ### Personal Portfolio
+ [Frontend](https://github.com/MaciejGL/personal_portfolio_frontend)<br/>
+ [Backend](https://github.com/MaciejGL/personal_portfolio_backend)<br/>
+ [Live](https://maciej-dev.netlify.app/)<br/>
+
+ ### Physio - deprecated due to team changes
  [Frontend](https://github.com/MaciejGL/final-project-frontend) - Early Stage, not deployed<br /> 
  [Backend](https://github.com/MaciejGL/final-project-backend) - Early Stage, not deployed
 
@@ -42,7 +47,7 @@ Postgress with Sequalize
 <br/><br/>
 
 ## Currently learning
-I'm working on Fullstack apps to maintain and enhance my knowledge. In meantime I'm heading towarads learning the Gatsby and PWA.
+Fully working on progress with PWA and Gatsby.
 
 <br/><br/>
 
