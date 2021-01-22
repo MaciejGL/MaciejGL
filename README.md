@@ -34,10 +34,11 @@ Postgress with Sequalize
  [Frontend](https://github.com/MaciejGL/personal_portfolio_frontend)<br/>
  [Backend](https://github.com/MaciejGL/personal_portfolio_backend)<br/>
  [Live](https://maciej-dev.netlify.app/)<br/>
-
- ### Physio - deprecated due to team changes
- [Frontend](https://github.com/MaciejGL/final-project-frontend) - Early Stage, not deployed<br /> 
- [Backend](https://github.com/MaciejGL/final-project-backend) - Early Stage, not deployed
+ <img src="https://github.com/MaciejGL/personal_portfolio_frontend/blob/main/assets/portfolio_browser_frame.png" />
+ 
+ ### Physio - development has been permamently stopped.
+ [Frontend](https://github.com/MaciejGL/final-project-frontend) <br /> 
+ [Backend](https://github.com/MaciejGL/final-project-backend)
 
  ### Next Blog
  [Blog with Next.js](https://github.com/MaciejGL/wika-blog-next)<br/>
