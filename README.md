@@ -40,11 +40,11 @@ Postgress with Sequalize
  [Blog with Next.js - Code](https://github.com/MaciejGL/wika-blog-next)<br/>
  [With Headless CMS - Strapi - Code](https://github.com/MaciejGL/wika_cms)<br/>
  [Live](https://victoria-t-art.com/)<br/>
- <img src="https://github.com/MaciejGL/wika-blog-next/blob/main/wika.png" alt="Blog Nextjs" />
+ <img src="https://github.com/MaciejGL/wika-blog-next/blob/main/victoria-devices-modified.jpg" alt="Blog Nextjs" />
  
  ### Physio - development has been permamently stopped.
  [Frontend](https://github.com/MaciejGL/final-project-frontend) <br /> 
- [Backend](https://github.com/MaciejGL/final-project-backend)
+ [Backend](https://github.com/MaciejGL/final-project-backend) <br /> 
  [Live](https://phys-io.netlify.app/)<br/>
  <img src="https://maciej-dev.com/static/7e0556f59632a2c218bb778be9262385/2cdd79f6e85ec1f88f449388776e667a.jpg" alt="physio" />
 
