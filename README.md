@@ -30,11 +30,17 @@ Postgress with Sequalize
 
 ## Recently worked on:
 
- ### Personal Portfolio - Finished
+ ### Personal Portfolio - In Production
  [Frontend](https://github.com/MaciejGL/personal_portfolio_frontend)<br/>
  [Backend](https://github.com/MaciejGL/personal_portfolio_backend)<br/>
  [Live](https://maciej-dev.netlify.app/)<br/>
  <img src="https://github.com/MaciejGL/personal_portfolio_frontend/blob/main/assets/portfolio_browser_frame.png" alt="Personal Portfolio" />
+ 
+ ### Victoria T Art - In Production
+ [Blog with Next.js - Code](https://github.com/MaciejGL/wika-blog-next)<br/>
+ [With Headless CMS - Strapi - Code](https://github.com/MaciejGL/wika_cms)<br/>
+ [Live](https://victoria-t-art.com/)<br/>
+ <img src="https://github.com/MaciejGL/wika-blog-next/blob/main/wika.png" alt="Blog Nextjs" />
  
  ### Physio - development has been permamently stopped.
  [Frontend](https://github.com/MaciejGL/final-project-frontend) <br /> 
@@ -42,16 +48,10 @@ Postgress with Sequalize
  [Live](https://phys-io.netlify.app/)<br/>
  <img src="https://maciej-dev.com/static/7e0556f59632a2c218bb778be9262385/2cdd79f6e85ec1f88f449388776e667a.jpg" alt="physio" />
 
-
- ### Next Blog - In progress
- [Blog with Next.js - Code](https://github.com/MaciejGL/wika-blog-next)<br/>
- [With Headless CMS - Strapi - Code](https://github.com/MaciejGL/wika_cms)<br/>
- <img src="https://github.com/MaciejGL/wika-blog-next/blob/main/wika.png" alt="Blog Nextjs" />
-
 <br/><br/>
 
 ## Currently learning
-Fully working on progress with PWA and Gatsby.
+Typescript
 
 <br/><br/>
 
