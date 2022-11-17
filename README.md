@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciej Glowacki</h1>
-<h3 align="center">Full stack JavaScript Dev @ School of Applied Technology</h3>
-
+<h3 align="center">Full stack JavaScript Dev @ Unfold.no</h3>
+<!-- 
 <br/>
 
 ## My current stack:
@@ -116,7 +116,7 @@ Typescript
 <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
  </p></br> 
  
- 
+  -->
 
 
  
